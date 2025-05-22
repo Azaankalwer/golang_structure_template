@@ -16,7 +16,7 @@ A beginner-friendly RESTful API built with the [Gin](https://github.com/gin-goni
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/gin-starter-api.git
+git clone https://github.com/your-username/golang_structure_template.git
 cd golang_structure_template
 
 # Initialize Go modules and tidy up
