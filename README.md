@@ -1,0 +1,1 @@
+# golang_structure_template
